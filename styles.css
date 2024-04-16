@@ -1,0 +1,57 @@
+#bt-result{
+    background-color: rgb(231 215 42 / 75%);
+    font-size: 50px;
+    width: 330px;
+    height: 430px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 18px;
+    border: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    background:linear-gradient();
+}
+
+#incrament-Button{
+    height: 60px;
+    width: 60px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(0 0 0 / 7%);
+    font-size: x-large;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#decreament-Button{
+    height: 60px;
+    width: 60px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(0 0 0 / 7%);
+    font-size: x-large;
+    margin-left: 100px;
+}
+
+#main-div{
+    position: relative;  
+    height: 100px;
+    width: 650px;
+}
+#child1-div{
+    background-color: #80808036;
+    height: 600px;
+    width: 410px;
+}
+#child2-div{
+    background-color: white;
+    height: 570px;
+    width: 370px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    border-radius: 8px;
+}
+.changecolor{
+    background-color: blueviolet;
+    color: black;
+}
